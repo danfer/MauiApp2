@@ -10,7 +10,7 @@
           ColumnSpacing="10">
 
         <Image Grid.ColumnSpan="2"
-               Source="hslogo2.png" 
+               Source="mytasklogo.png" 
                BackgroundColor="Transparent"
                />
         <Entry Placeholder="Enter task"

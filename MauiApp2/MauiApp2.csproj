@@ -48,9 +48,4 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <None Remove="Resources\Images\hslogo.png" />
-	  <None Remove="Resources\Images\hslogo2.png" />
-	</ItemGroup>
-
 </Project>
